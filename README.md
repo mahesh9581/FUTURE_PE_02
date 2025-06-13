@@ -4,7 +4,7 @@ Service-based AI Travel Planner website created using no-code tools to offer cus
 
 This repository contains the submission for *Task 2* of the Future Interns internship program. It features an AI-powered travel planner website designed to help users explore destinations and plan trips with ease.
 
-### 🔗 Live Preview:
+### 🔗 Live Preview: 
 [🌐 Visit the TravelPlanner Website](https://wander-wise-itinerary-builder-88.lovable.app/)
 
 ### 🎥 Demo Video:
