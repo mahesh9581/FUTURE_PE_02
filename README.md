@@ -1,7 +1,5 @@
 # FUTURE_PE_02
 Service-based AI Travel Planner website created using no-code tools to offer customized trip planning
-# FUTURE_PE_02
-
 ## 🌍 Task 2: AI-Based Travel Planner Website (No-Code Project)
 
 This repository contains the submission for *Task 2* of the Future Interns internship program. It features an AI-powered travel planner website designed to help users explore destinations and plan trips with ease.
